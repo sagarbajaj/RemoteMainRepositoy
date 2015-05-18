@@ -131,6 +131,7 @@ public class Train
 		System.out.println(t.print());
 System.out.println("sagar");
 System.out.println("sagar1");
+System.out.println("sagar2");
 	}
 
 }
